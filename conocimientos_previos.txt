@@ -1,3 +1,4 @@
 CONOCIMIENTOS PREVIOS
 
 1. conocimiento empirico de sistemas informaticos
+2. aprendizaje didactico en aplicaciones de codigo
