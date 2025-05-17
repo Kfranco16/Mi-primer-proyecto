@@ -2,3 +2,4 @@ OBJETIVOS
 
 1.Adquirir todos los conocimientos necesarios para ser un desarrollador web profesional
 2.Cumplir con buenas calificaciones todo el contenido del master
+3.Tener una base solida para seguir adquieriendo conocimientos mas avanzados
